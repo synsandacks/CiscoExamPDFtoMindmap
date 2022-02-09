@@ -20,6 +20,9 @@ Install Markmap VSCode extension:
 
 # Known Issues
 
-Some PDF files don't extact any readable text and as a result the script fails. I believe this has something to do with how the original PDF was generated. Overall I had pretty good success with the exception of a few exams. 
+Some PDF files don't extact any readable text and as a result the script fails. I believe this has something to do with how the original PDF was generated. Overall I had pretty good success with the exception of a few exams.
 
+Could not execute the script on the following exam objectives and no other pdf file could be found:
 
+- 300-730 SVPN
+- 350-601-DCCOR
